@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-11T14:20:16.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="OYS05d-QAuatWtMBwMAA" version="22.1.22" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T12:01:13.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="njWX9wagDN6P0cydQcSF" version="24.4.0" type="github">
   <diagram name="หน้า-1" id="788U2fSRKV0-yeTuexyh">
     <mxGraphModel dx="1002" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,41 +13,47 @@
         <mxCell id="gxe_v9rc36yMtRxNcf9k-7" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;Customer Credential&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;uniqueId&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;/td&gt;&lt;td&gt;Customerid&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;UID(userID)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="40" y="560" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="assSp0-ZSkzHdzxD_WiG-1" value="Influencer" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="359" y="330" width="110" height="50" as="geometry" />
+        <mxCell id="assSp0-ZSkzHdzxD_WiG-1" value="Influencer" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="520" y="330" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="assSp0-ZSkzHdzxD_WiG-2" value="Employee" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="assSp0-ZSkzHdzxD_WiG-2" value="Employee" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="359" y="455" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="assSp0-ZSkzHdzxD_WiG-3" value="Customer" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="assSp0-ZSkzHdzxD_WiG-3" value="Customer" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="359" y="575" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="assSp0-ZSkzHdzxD_WiG-4" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
+        <mxCell id="assSp0-ZSkzHdzxD_WiG-4" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="200" y="600" as="sourcePoint" />
             <mxPoint x="360" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="assSp0-ZSkzHdzxD_WiG-5" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="assSp0-ZSkzHdzxD_WiG-4">
+        <mxCell id="assSp0-ZSkzHdzxD_WiG-5" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="assSp0-ZSkzHdzxD_WiG-4" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="assSp0-ZSkzHdzxD_WiG-6" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gxe_v9rc36yMtRxNcf9k-6" target="assSp0-ZSkzHdzxD_WiG-2">
+        <mxCell id="assSp0-ZSkzHdzxD_WiG-6" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gxe_v9rc36yMtRxNcf9k-6" target="assSp0-ZSkzHdzxD_WiG-2" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="210" y="479.5" as="sourcePoint" />
             <mxPoint x="350" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="assSp0-ZSkzHdzxD_WiG-7" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="assSp0-ZSkzHdzxD_WiG-6">
+        <mxCell id="assSp0-ZSkzHdzxD_WiG-7" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="assSp0-ZSkzHdzxD_WiG-6" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="assSp0-ZSkzHdzxD_WiG-8" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gxe_v9rc36yMtRxNcf9k-5">
+        <mxCell id="assSp0-ZSkzHdzxD_WiG-8" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gxe_v9rc36yMtRxNcf9k-5" edge="1" target="assSp0-ZSkzHdzxD_WiG-1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="199" y="354.5" as="sourcePoint" />
             <mxPoint x="359" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="assSp0-ZSkzHdzxD_WiG-9" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="assSp0-ZSkzHdzxD_WiG-8">
+        <mxCell id="assSp0-ZSkzHdzxD_WiG-9" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="assSp0-ZSkzHdzxD_WiG-8" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k4NiJZShpCglx9-kajkt-1" value="&lt;div&gt;&lt;b&gt;Influencer create&lt;/b&gt;&lt;/div&gt;1) have user&lt;br&gt;Req: UID&lt;br&gt;Res: id ,role ,token&lt;div&gt;2) not have user&lt;br&gt;Req: UID&lt;br&gt;Res: role,token&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="k4NiJZShpCglx9-kajkt-2" value="&lt;div&gt;&lt;b&gt;Employee create&lt;/b&gt;&lt;/div&gt;1) have user&lt;br&gt;Req: -&lt;br&gt;Res: GK&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="120" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
